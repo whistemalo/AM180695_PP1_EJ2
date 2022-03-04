@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ec. Cuadratica</string>
+    <string name="coa">Coeficiente A</string>
+    <string name="cob">Coeficiente B</string>
+    <string name="calc">Calcular</string>
+    <string name="coc">Coeficiente C</string>
+</resources>
